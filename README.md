@@ -1,29 +1,23 @@
-# Hi there 👋 Welcome to my GitHub profile
+# Hi, I'm Dabbler 👋
 
-I'm Adabbler, a passionate college student exploring the world of technology and open-source.
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=College+student+and+open-source+contributor+in+progress;Vibe+coding+to+turn+ideas+into+real+projects" alt="Typing intro" />
+</p>
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Currently pursuing my degree while coding and learning
-- 🤖 AI enthusiast diving deep into AI-related knowledge
-- 💻 VS Code lover - my go-to editor for most projects
-- 🌱 Constantly learning and growing my tech skills
+- 🎓 College student passionate about building and learning.
+- 🌍 Hoping to make meaningful contributions to the open-source community.
+- ⚡ Enjoy vibe coding and rapid idea-to-prototype development.
 
-## 🛠️ Tech Stack & Tools
+## Stack
 
-| Category | Technologies |
-|:---:|:---:|
-| 🔤 **Programming Languages** | ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) |
-| 🌐 **Web Development** | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Vue.js](https://skillicons.dev/icons?i=vue) |
-| ⚙️ **Development Tools** | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Markdown](https://skillicons.dev/icons?i=markdown) |
-| 🖥️ **Operating Systems** | ![Windows](https://skillicons.dev/icons?i=windows) ![Linux](https://skillicons.dev/icons?i=linux) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) |
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs" alt="Tech Stack" />
+</p>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
-![Adabbler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adabbler&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-## 🎯 Current Focus
-
-- 🔭 Working on: algorithm competition
-- 📚 Learning: AI-related knowledge and algorithms
-- 🤝 Looking to collaborate on: Interesting open-source projects
+<p align="center">
+	<img height="165" src="https://github-readme-stats.vercel.app/api?username=ADabbler&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Dabbler GitHub stats" />
+</p>
